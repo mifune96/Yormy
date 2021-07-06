@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Yormy</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_search">Search</string>
+    <string name="title_category">Category</string>
+    <string name="title_history">History</string>
+    <string name="title_inbox">Inbox</string>
+    <string name="title_profile">Profile</string>
+    <string name="titlle_name">Hi, Ali Imran</string>
+    <string name="tittle_map">Map View</string>
+    <string name="tittle_handdsome">Your Very Handsome</string>
+    <string name="tittle_search">Search</string>
+    <string name="tittle_30">30%</string>
+    <string name="tittle_discount_for_all_food">Discount for All Food</string>
+    <string name="tittle_valid_until_september_07">Valid until September 07</string>
+    <string name="titlle_popular_chef">Popular Chef</string>
+    <string name="tittle_nasi_uduk">Nasi Uduk</string>
+    <string name="tittle_chif_juna">Chif Juna</string>
+    <string name="hello_blank_fragment">Hello Blank</string>
+
+
+    <string-array name="chefname">
+        <item>Chef Juna</item>
+        <item> Chef Arnold Poernomo</item>
+        <item>Chef Renatta Moeloek</item>
+        <item>Chef Farah Quinn</item>
+        <item>Chef Marinka</item>
+        <item>Chef Aiko Sarwosri</item>
+    </string-array>
+
+    <string-array name="foodname">
+        <item>Nasi Uduk</item>
+        <item>Nasi Padang </item>
+        <item>Ratmin</item>
+        <item>Rujak Kolam</item>
+        <item>Sei Sapi</item>
+        <item>Telor Naga Goreng</item>
+    </string-array>
+
+    <array name="foodimg">
+        <item>@drawable/nasiuduk</item>
+        <item>@drawable/nasipadang</item>
+        <item>@drawable/ratmin</item>
+        <item>@drawable/rujakkolam</item>
+        <item>@drawable/seisapi</item>
+        <item>@drawable/telorgoreng</item>
+
+    </array>
+
+</resources>
